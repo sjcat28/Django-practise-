@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08138758-0178-4416-b046-df75771380c7" name="Changes" comment="adding everthing first push">
-      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+    <list default="true" id="08138758-0178-4416-b046-df75771380c7" name="Changes" comment="Worked on part 2 of the tutorial">
       <change beforePath="$PROJECT_DIR$/DjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762083001669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Worked on part 2 of the tutorial">
+      <option name="closed" value="true" />
+      <created>1762089433111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762089433111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding everthing first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding everthing first push" />
+    <MESSAGE value="Worked on part 2 of the tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worked on part 2 of the tutorial" />
   </component>
 </project>
